@@ -12,3 +12,4 @@ public class Abonado {  //hacer como socio
         super();
     }
 }
+//prueba jose
