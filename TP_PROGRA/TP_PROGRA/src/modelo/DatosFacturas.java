@@ -1,7 +1,6 @@
 package modelo;
 
 import java.util.ArrayList;
-
 import negocio.Factura;
 
 public class DatosFacturas {
